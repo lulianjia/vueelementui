@@ -11,7 +11,7 @@
     arrow-control
     v-model="value2"
     :picker-options="{
-      selectableRange: '18:30:00 - 20:30:00'
+      selectableRange: '18:30:00 - 20:40:00'
     }"
     placeholder="任意时间点">
   </el-time-picker>
